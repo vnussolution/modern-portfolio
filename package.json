@@ -1,0 +1,22 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": " Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnussolution/modern-portfolio.git"
+  },
+  "author": "Truc Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnussolution/modern-portfolio/issues"
+  },
+  "homepage": "https://github.com/vnussolution/modern-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
